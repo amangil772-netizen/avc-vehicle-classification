@@ -383,7 +383,7 @@ All AI tool usage is disclosed in `docs/AVC_G25_FAIR_Report.docx`. Summary:
 
 | | Ayush Acharya | Pratham Patel | Aman Gill |
 |--|:-------------:|:-------------:|:---------:|
-| **Role** | AI/ML Lead & Scrum Master | Data & Testing Lead | Dashboard & Docs Lead |
+| **Role** | AI/ML Lead & Scrum Master | Data & Testing Lead | Project Manager & Dashboard Lead |
 | **Hours** | 109 hrs | 61 hrs | 47 hrs |
 | **Key work** | YOLO11n training pipeline, `vehicle_counter.py`, DeepSORT, GDPR audit, risk management | 11,582-image dataset annotation, UA-DETRAC benchmark validation, testing | `app.py` dashboard, exhibition poster, all documentation |
 
